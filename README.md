@@ -74,5 +74,12 @@ git clone https://github.com/hasan6t7/e-services.git
 
 cd e-services
 
+npm install
+
+Setup your firebase env to .env.local
+
+npm run dev
+
+
 
  
