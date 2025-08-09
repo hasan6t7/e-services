@@ -67,7 +67,7 @@ Deployment: Firebase Hosting
 
 Follow these steps to run E-Services locally on your machine:
 
-### 1. Clone the repository
+
 
 ```bash
 git clone https://github.com/hasan6t7/e-services.git
