@@ -1,5 +1,7 @@
 Website name : E-Services
 
+Description: E-Services is a dynamic web application designed to facilitate seamless interaction between service providers and users. The platform allows users to manage, browse, and book various services, ensuring a smooth and efficient experience for all parties involved.
+
 Live site URL: https://e-services-02.web.app/
 
 <img src="https://github.com/hasan6t7/e-services/blob/main/Screenshot%202025-08-09%20154932.png"  />
