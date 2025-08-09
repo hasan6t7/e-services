@@ -72,4 +72,7 @@ Follow these steps to run E-Services locally on your machine:
 ```bash
 git clone https://github.com/hasan6t7/e-services.git
 
+cd e-services
+
+
  
